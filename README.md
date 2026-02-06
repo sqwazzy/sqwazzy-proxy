@@ -1,0 +1,2 @@
+# sqwazzy-proxy
+unblockable proxy
